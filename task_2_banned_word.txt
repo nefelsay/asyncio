@@ -1,0 +1,2 @@
+banned_words = ["bug", "error", "exception", "fail", "crash", "hang", "slow", "memory leak", "infinite loop",
+                "deadlock"]
