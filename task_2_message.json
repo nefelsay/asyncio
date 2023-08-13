@@ -157,7 +157,7 @@ messages = [
     {
         "message_id": 24649,
         "message": "Мы должны пересмотреть структуру базы данных.",
-        "role": "None"
+        "role": None
     },
     {
         "message_id": 41506,
