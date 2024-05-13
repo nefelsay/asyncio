@@ -17,7 +17,7 @@ messages = [
     {
         "message_id": 24766,
         "message": "У нас проблемы с базой данных на продакшн сервере.",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 78228,
@@ -37,7 +37,7 @@ messages = [
     {
         "message_id": 71942,
         "message": "Я сейчас занимаюсь компиляцией новой версии.",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 69061,
@@ -62,7 +62,7 @@ messages = [
     {
         "message_id": 64023,
         "message": "Ты пользуешься Git для управления версиями?",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 27769,
@@ -92,7 +92,7 @@ messages = [
     {
         "message_id": 47734,
         "message": "Стоит ли использовать TensorFlow для этого проекта?",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 66161,
@@ -112,7 +112,7 @@ messages = [
     {
         "message_id": 38870,
         "message": "Удивительно, как быстро развивается технология.",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 36145,
@@ -137,7 +137,7 @@ messages = [
     {
         "message_id": 90083,
         "message": "Ты когда-нибудь работал с NoSQL базами данных?",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 26180,
@@ -157,7 +157,7 @@ messages = [
     {
         "message_id": 24649,
         "message": "Мы должны пересмотреть структуру базы данных.",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 41506,
@@ -172,7 +172,7 @@ messages = [
     {
         "message_id": 15405,
         "message": "Мне нравится работать с открытым исходным кодом.",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 95661,
@@ -192,7 +192,7 @@ messages = [
     {
         "message_id": 37029,
         "message": "Я заметил странное поведение функции в этом коде.",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 87001,
@@ -212,7 +212,7 @@ messages = [
     {
         "message_id": 73836,
         "message": "Нам стоит переписать эту функцию для улучшения производительности.",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 36427,
@@ -232,7 +232,7 @@ messages = [
     {
         "message_id": 43701,
         "message": "Ты когда-нибудь работал с Rust?",
-        "role": None
+        "role": "None"
     },
     {
         "message_id": 14183,
